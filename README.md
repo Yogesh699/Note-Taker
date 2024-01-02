@@ -13,6 +13,7 @@
 4. [Mockup](#mockup)
 5. [Dependencies](#dependencies)
 6. [Test Locally](#test-locally)
+7. [Deployed URL](#Deployed-URL)
 
 ## Introduction
 
