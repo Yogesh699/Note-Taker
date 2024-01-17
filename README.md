@@ -65,3 +65,4 @@ npm install express
 ```
 
 ### Deployed URL
+https://note-taker-app-mode11-1924ea5469c7.herokuapp.com/
